@@ -86,7 +86,7 @@ Check out the live stats for this repository!
 
 <div align="center">
   <a href="https://github.com/vaibhav-jais06/Structured-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-jais06&repo=Structured-Python&theme=radical&bg_color=1F222E&hide_border=true&icon_color=F37626" alt="Repo Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vaibhav-jais06&repo=Structured-Python&theme=radical&bg_color=1F222E&hide_border=true&icon_color=F37626" alt="Repo Stats" />
   </a>
 </div>
 
