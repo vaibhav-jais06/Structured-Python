@@ -68,6 +68,17 @@ jupyter notebook</code></pre>
 
 </details>
 
+<details open>
+  <summary><h2>🛠️ Practical Applications <i>(Current Phase)</i></h2></summary>
+  
+  Dive into real-world data science with our `Practicals.ipynb` module. We use real datasets like `LoanApprovalPrediction.csv` to apply what you've learned!
+
+  | Project / Dataset | Description | Status |
+  | :--- | :--- | :---: |
+  | 🏦 **Loan Approval Prediction** | Analyzing and processing real-world CSV data. | 🟢 Completed |
+
+</details>
+
 <details>
   <summary><h2>📍 Stage 2 & Beyond <i>(Coming Soon...)</i></h2></summary>
   <blockquote><i>Stay tuned! As I learn, this repository evolves.</i></blockquote>
