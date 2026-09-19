@@ -79,6 +79,17 @@ jupyter notebook</code></pre>
 
 </details>
 
+<details open>
+  <summary><h2>🔍 Algorithms & Data Structures <i>(Current Phase)</i></h2></summary>
+  
+  Explore standard searching techniques and their implementations in `Searching_Algorithms.ipynb`.
+
+  | Topic | Description | Status |
+  | :--- | :--- | :---: |
+  | 🔎 **Searching Algorithms** | Implementing Linear Search, Binary Search, and more. | 🟢 Completed |
+
+</details>
+
 <details>
   <summary><h2>📍 Stage 2 & Beyond <i>(Coming Soon...)</i></h2></summary>
   <blockquote><i>Stay tuned! As I learn, this repository evolves.</i></blockquote>
