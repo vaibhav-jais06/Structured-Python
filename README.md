@@ -82,11 +82,12 @@ jupyter notebook</code></pre>
 <details open>
   <summary><h2>🔍 Algorithms & Data Structures <i>(Current Phase)</i></h2></summary>
   
-  Explore standard searching techniques and their implementations in `Searching_Algorithms.ipynb`.
+  Explore standard searching techniques and data structures implementations.
 
-  | Topic | Description | Status |
+  | Topic / File | Description | Status |
   | :--- | :--- | :---: |
-  | 🔎 **Searching Algorithms** | Implementing Linear Search, Binary Search, and more. | 🟢 Completed |
+  | 🔎 **Searching Algorithms** (`Searching_Algorithms.ipynb`) | Implementing Linear Search, Binary Search, and more. | 🟢 Completed |
+  | 🧱 **Data Structures** (`Data_structures_in_Python.ipynb`) | Exploring core Python data structures in depth. | 🟢 Completed |
 
 </details>
 
