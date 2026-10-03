@@ -88,6 +88,7 @@ jupyter notebook</code></pre>
   | :--- | :--- | :---: |
   | 🔎 **Searching Algorithms** (`Searching_Algorithms.ipynb`) | Implementing Linear Search, Binary Search, and more. | 🟢 Completed |
   | 🧱 **Data Structures** (`Data_structures_in_Python.ipynb`) | Exploring core Python data structures in depth. | 🟢 Completed |
+  | 🥞 **Stacks & Queues** (`PDS_Stacks_and_Queues.ipynb`) | Implementing and understanding Stacks and Queues. | 🟢 Completed |
 
 </details>
 
