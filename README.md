@@ -4,13 +4,15 @@
 
   <!-- Typing SVG for subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F37626&center=true&vCenter=true&width=600&lines=Code.+Learn.+Conquer.;Zero+to+Hero+in+Python;Build+the+Future+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F37626&center=true&vCenter=true&width=600&lines=Code.+Learn.+Conquer.;Zero+to+Hero+in+Python;Build+the+Future+with+Code;Master+Data+Structures+and+Algorithms" alt="Typing SVG" />
   </a>
 
   <!-- Badges Grid -->
   <p>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
     <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge"/></a>
+    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge"/></a>
     <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-jais06.Structured-Python&left_color=gray&right_color=blue" alt="Visitor Count"/>
   </p>
@@ -62,20 +64,9 @@ jupyter notebook</code></pre>
   | Core Concept | What You Will Learn | Status |
   | :--- | :--- | :---: |
   | 🖨️ **I/O Operations** | Mastering `print()`, `input()`, and stream formatting. | 🟢 Completed |
-  | 🧩 **Data Structures** | Navigating Integers, Floats, Strings, and Booleans. | 🟢 Completed |
+  | 🧩 **Data Types** | Navigating Integers, Floats, Strings, and Booleans. | 🟢 Completed |
   | 📦 **Memory Management** | Variable declaration, dynamic typing, and manipulation. | 🟢 Completed |
   | ⚙️ **Modular Logic** | Defining `def` functions, arguments, and return states. | 🟢 Completed |
-
-</details>
-
-<details open>
-  <summary><h2>🛠️ Practical Applications <i>(Current Phase)</i></h2></summary>
-  
-  Dive into real-world data science with our `Practicals.ipynb` module. We use real datasets like `LoanApprovalPrediction.csv` to apply what you've learned!
-
-  | Project / Dataset | Description | Status |
-  | :--- | :--- | :---: |
-  | 🏦 **Loan Approval Prediction** | Analyzing and processing real-world CSV data. | 🟢 Completed |
 
 </details>
 
@@ -86,9 +77,21 @@ jupyter notebook</code></pre>
 
   | Topic / File | Description | Status |
   | :--- | :--- | :---: |
+  | 🧱 **Data Structures** (`Data_structures_in_Python.ipynb`) | Exploring core Python data structures in depth (Lists, Tuples, Dictionaries). | 🟢 Completed |
+  | 🏷️ **Hashing & Sets** (`Data_Structures_(Hashing_Sets).ipynb`) | Deep dive into Hashing mechanisms, Sets, and collision resolution. | 🟢 Completed |
+  | 🥞 **Stacks & Queues** (`PDS_Stacks_and_Queues.ipynb`) | Implementing and understanding Stacks and Queues operations. | 🟢 Completed |
   | 🔎 **Searching Algorithms** (`Searching_Algorithms.ipynb`) | Implementing Linear Search, Binary Search, and more. | 🟢 Completed |
-  | 🧱 **Data Structures** (`Data_structures_in_Python.ipynb`) | Exploring core Python data structures in depth. | 🟢 Completed |
-  | 🥞 **Stacks & Queues** (`PDS_Stacks_and_Queues.ipynb`) | Implementing and understanding Stacks and Queues. | 🟢 Completed |
+
+</details>
+
+<details open>
+  <summary><h2>🛠️ Practical Data Science Applications <i>(Current Phase)</i></h2></summary>
+  
+  Dive into real-world data science with our `Practicals.ipynb` module. We use real datasets like `LoanApprovalPrediction.csv` to apply what you've learned!
+
+  | Project / Dataset | Description | Status |
+  | :--- | :--- | :---: |
+  | 🏦 **Loan Approval Prediction** | Analyzing and processing real-world CSV data, Exploratory Data Analysis (EDA). | 🟢 Completed |
 
 </details>
 
@@ -96,9 +99,10 @@ jupyter notebook</code></pre>
   <summary><h2>📍 Stage 2 & Beyond <i>(Coming Soon...)</i></h2></summary>
   <blockquote><i>Stay tuned! As I learn, this repository evolves.</i></blockquote>
   <ul>
-    <li>🔄 Control Flow (Loops & Conditionals)</li>
-    <li>📚 Advanced Data Structures (Lists, Dictionaries, Sets)</li>
-    <li>🏗️ Object-Oriented Programming (OOP)</li>
+    <li>🔄 Control Flow (Loops & Conditionals) - <i>Advanced deep dives</i></li>
+    <li>🌳 Trees and Graphs (BST, Traversals)</li>
+    <li>🏗️ Object-Oriented Programming (OOP) in Python</li>
+    <li>🤖 Introduction to Machine Learning models</li>
   </ul>
 </details>
 
