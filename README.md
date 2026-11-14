@@ -80,6 +80,9 @@ Structured-Python/
 │   ├── Practicals.ipynb                       # Loan Approval EDA & Categorical Encoding
 │   └── LoanApprovalPrediction.csv             # Financial Domain Dataset
 │
+├── 🏗️ Object-Oriented Programming (OOP)
+│   └── OOPS_Concept.ipynb                     # Classes, Objects, Inheritance, Polymorphism & Encapsulation
+│
 ├── requirements.txt                           # Pinned Environment Dependencies
 └── README.md                                  # Interactive Documentation Hub
 ```
@@ -118,7 +121,7 @@ Structured-Python/
 </details>
 
 <details open>
-  <summary><h2>📊 Stage 3: Data Analysis & Visualization <i>(Current Phase)</i></h2></summary>
+  <summary><h2>📊 Stage 3: Data Analysis & Visualization <i>(Completed)</i></h2></summary>
   
   Master the industry standard data wrangling and visualization stack in Python.
 
@@ -129,14 +132,25 @@ Structured-Python/
 
 </details>
 
+<details open>
+  <summary><h2>🏗️ Stage 4: Object-Oriented Programming (OOP) <i>(Completed)</i></h2></summary>
+  
+  Master the core paradigms of Object-Oriented Programming in Python to build modular, extensible, and clean codebases.
+
+  | Topic / Notebook | Description & Key Concepts | Colab | Status |
+  | :--- | :--- | :---: | :---: |
+  | 🏛️ **OOP Pillars & Concepts**<br/>[`OOPS_Concept.ipynb`](./OOPS_Concept.ipynb) | Classes & Objects, constructors (`__init__`), instance vs. class variables, encapsulation (public, protected `_`, private `__`), single inheritance (`super()`), polymorphism (duck typing), and method overriding. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vaibhav-jais06/Structured-Python/blob/main/OOPS_Concept.ipynb) | 🟢 Completed |
+
+</details>
+
 <details>
-  <summary><h2>🚀 Stage 4 & Beyond <i>(Coming Soon...)</i></h2></summary>
+  <summary><h2>🚀 Stage 5 & Beyond <i>(Coming Soon...)</i></h2></summary>
   <blockquote><i>Stay tuned! As I learn, this repository continuously evolves.</i></blockquote>
   <ul>
     <li>🌳 <b>Trees & Advanced Graphs:</b> Binary Search Trees (BST), AVL Trees, Dijkstra's Shortest Path, and A*</li>
-    <li>🏗️ <b>Object-Oriented Programming (OOP):</b> Classes, Inheritance, Polymorphism, Encapsulation, and Design Patterns</li>
     <li>🤖 <b>Applied Machine Learning:</b> Supervised Classification (Random Forests, Logistic Regression, SVM) and Model Evaluation Metrics</li>
     <li>⚡ <b>Performance Optimization:</b> Profiling, Vectorization with NumPy, and Algorithmic Efficiency</li>
+    <li>🧩 <b>Design Patterns:</b> Factory, Singleton, Observer, and Strategy patterns in Python</li>
   </ul>
 </details>
 
